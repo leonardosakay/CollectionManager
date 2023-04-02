@@ -6,7 +6,7 @@
  * @version 1.0
  * Date: 3/3/2023
  */
-package SteppingStones;
+package CollectionManager;
 import java.util.Scanner;
 
 public class Ingredient {
